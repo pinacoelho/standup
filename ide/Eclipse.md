@@ -30,15 +30,15 @@ Select a bundle pool on $HOME/.p2/pool (saves a LOT of space if you have multipl
 
 Make sure that you have (at least) these five repositories.
 
-http://download.eclipse.org/releases/2019-03
+http://download.eclipse.org/releases/2019-09
 
 http://download.eclipse.org/releases/latest
 
 http://download.eclipse.org/oomph/updates/milestone/latest
 
-http://download.eclipse.org/eclipse/updates/4.11
+http://download.eclipse.org/eclipse/updates/4.12
 
-http://download.eclipse.org/technology/epp/packages/2019-03/
+http://download.eclipse.org/technology/epp/packages/2019-09/
 
 ## Cleanup
 
