@@ -10,8 +10,8 @@ Get the "Eclipse IDE YYYY-MM" from https://www.eclipse.org/downloads/ or
 
 Unpack the installer in $HOME/eclipse/eclipse-installer
 
-  echo 'exec ~/eclipse/eclipse-installer/eclipse-inst $\*' > ~/bin/eclipse-inst
-  chmod 755 ~/bin/eclipse-inst
+    echo 'exec ~/eclipse/eclipse-installer/eclipse-inst $\*' > ~/bin/eclipse-inst
+    chmod 755 ~/bin/eclipse-inst
 
 Start eclipse-inst
 
@@ -21,8 +21,8 @@ Select the IDE you want from Eclipse.org
 Select a bundle pool on $HOME/.p2/pool (saves a LOT of space if you have multiple installations)
 
 
-  echo 'exec ~/eclipse/latest/eclipse/eclipse $\*' > ~/bin/eclipse
-  chmod 755 ~/bin/eclipse
+    echo 'exec ~/eclipse/latest/eclipse/eclipse $\*' > ~/bin/eclipse
+    chmod 755 ~/bin/eclipse
 
 
 
